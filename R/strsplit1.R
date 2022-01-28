@@ -1,4 +1,14 @@
-#takes in a list of values and a delimiter
+#' Split a string using a delimiter
+#'
+#' @param x A character vector with one element.
+#' @param split What to split on.
+#'
+#' @return A character vector.
+#' @export
+#'
+#' @examples
+#' x <- "alfa,bravo,charlie,delta"
+#' strsplit(x, split = ",")
 strsplit1 <- function(x, split) {
   strsplit(x, split = split)[[1]]
 }
