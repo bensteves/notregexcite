@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of notregexcite is to …
+notregexcite is a demo R package created for DATA 303, @ Calvin University
 
 ## Installation
 
